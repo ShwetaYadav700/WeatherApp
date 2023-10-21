@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "C:/Users/amits/Downloads/weatherAppProject/weatherAppProject/assets"
+		},
+		{
+			"name": "WeatherApp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WeatherApp"
+	}
+}
